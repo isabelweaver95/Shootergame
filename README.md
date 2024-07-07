@@ -5,7 +5,7 @@ This is a shooter game that allows the user to move the shooter around and shoot
 The purpose of me creating the program was to learn how to apply some graphics to a program.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zEUw5jP7IPs)
 
 # Development Environment
 
